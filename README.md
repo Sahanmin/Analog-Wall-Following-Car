@@ -8,7 +8,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 *  But the interesting point is our project was to build a robot that travels on the centerline between two walls using only analog electronics.
 *  That means we couldn’t use microcontrollers according to the [guidelines](https://github.com/Sahanmin/Analog-Wall-Following-Car/blob/main/Project_Guidelines.pdf).
 
-![IMG-20231206-WA0097](https://github.com/Sahanmin/Analog-Wall-Following-Car/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
+![IMG-20231206-WA0097](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/241e426e-1c0c-4cf3-a58a-3e9705a20f41)
 
 ## Working Concept
 
@@ -25,7 +25,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 *  This PWM signal acts as the Base speed of the robot.
 *  Consequently the additional sharp IR sensor will vary the car's speed accordingly.
 
-![image](https://github.com/Sahanmin/Analog-Wall-Following-Car/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
+![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
 ## Sub Circuits and Tasks
 
