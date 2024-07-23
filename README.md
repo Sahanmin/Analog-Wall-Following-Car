@@ -72,7 +72,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## PCB
 
-![20231201_162731](https://github.com/Sahanmin/Analog-Wall-Following-Car/assets/106037441/6fb28673-3319-4657-9a23-ef2d5f0c3bc5)
+![20231201_162731](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/6fb28673-3319-4657-9a23-ef2d5f0c3bc5)
 
 ## Team Members
 
