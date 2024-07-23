@@ -64,11 +64,11 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 
 ## Enclosure Design
 
-![297237961-194de710-68c9-488a-863e-5720f45de2e3](https://github.com/Sahanmin/Analog-Wall-Following-Car/assets/106037441/2d6a547f-fbf7-422a-8413-5abb84247a53)
+![297237961-194de710-68c9-488a-863e-5720f45de2e3](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/2d6a547f-fbf7-422a-8413-5abb84247a53)
 
 ## PCB Design
 
-![IMG-20231206-WA0012](https://github.com/Sahanmin/Analog-Wall-Following-Car/assets/106037441/a627905f-60ce-4cc6-8d41-3c2be5a326dd)
+![IMG-20231206-WA0012](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/a627905f-60ce-4cc6-8d41-3c2be5a326dd)
 
 ## PCB
 
